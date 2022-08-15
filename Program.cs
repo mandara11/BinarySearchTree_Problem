@@ -29,6 +29,9 @@
 
             binarySearch.GetSize();
 
+            bool result = binarySearch.IfExists(63, binarySearch);
+            Console.WriteLine(result);
+
         }
     }
 }
