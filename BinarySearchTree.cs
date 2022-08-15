@@ -78,6 +78,5 @@ namespace BinarySearchTreeProblem
                 IfExists(element, node.rightTree);
             return result;
         }
-
     }   
 }
